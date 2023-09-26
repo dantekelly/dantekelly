@@ -41,6 +41,6 @@ I'm a full-stack developer and designer creating highly-efficient and secure app
 
 ### Get in touch ☕
 
-- Your future buddy to discuss development and design related things on [Twitter](https://twitter.com/IAmDanteKelly/).
+- Here to discuss development and design related things on [Twitter](https://twitter.com/IAmDanteKelly/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/dantekelly/)
 - And of course GitHub you're already on (Recursion).
