@@ -8,7 +8,7 @@ I build fast, secure, AI-powered products for startups, agencies, and enterprise
 
 **10+ years shipping production software** across SaaS, web platforms, mobile apps, internal tools, automation, and AI systems.
 
-[Portfolio](https://www.dantekelly.com/) · [LinkedIn](https://www.linkedin.com/in/dantekelly/) · [Twitter/X](https://twitter.com/IAmDanteKelly/)
+[Portfolio](https://www.dantekelly.com/) · [LinkedIn](https://www.linkedin.com/in/dantekelly/)
 
 </div>
 
