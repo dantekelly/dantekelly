@@ -28,21 +28,13 @@ Led architecture and development of a React, Sanity, and Netlify-powered system 
 
 ---
 
-### Nano — AI Goal Platform
+### [Nano — AI Goal Platform](https://nano.com)
 
 An AI-powered goal platform designed around daily evidence, personalized feeds, progress tracking, notifications, and rewards.
 
 Owned and led major parts of the frontend, mobile experience, feed generation system, and product-facing AI workflows across multiple codebases. Built systems involving YouTube discovery, embeddings, LLM-assisted ranking, deduplication, and personalized content generation.
 
 **Highlights:** Maintained sub-45-second feed generation for 2,000+ daily active users while supporting mobile parity, notifications, gamification, and multi-repo product development.
-
----
-
-### StackBooks
-
-An AI bookkeeping SaaS concept for multi-business founders and operators who need to organize transactions, categorize expenses, and prepare back-tax filings more efficiently.
-
-Focused on CSV imports, AI-assisted categorization, tax-year organization, multi-business workflows, and clean export paths for accountants and bookkeeping tools.
 
 ---
 
